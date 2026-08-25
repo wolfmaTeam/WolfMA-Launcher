@@ -1,4 +1,4 @@
-# WolfMA Launcher
+# WolfMA Launcher 
 
 **WolfMA Launcher** is a Windows desktop application designed to organize, manage, and launch PC games from one convenient interface.
 
