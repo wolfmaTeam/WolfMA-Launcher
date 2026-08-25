@@ -22,7 +22,7 @@ Application settings, game-library information, and playtime statistics are stor
 For complete details, see:
 
 [Privacy Policy](PRIVACY.md)
-
+https://github.com/wolfmaTeam/WolfMA-Launcher/commit/7825c6f7a03a9619fdddfab98740b77a9bdeac30
 ## Support
 
 For support, bug reports, or other inquiries:
